@@ -1,1 +1,2 @@
 # Titanic-Project
+This is my first Data Analytics project which provides insights on the survivors and casualities. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others. This project provides an analysis that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
